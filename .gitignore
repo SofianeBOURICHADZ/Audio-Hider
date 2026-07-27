@@ -28,3 +28,4 @@ CMakeUserPresets.json
 *.out
 *.app
 .vscode/
+dist/
