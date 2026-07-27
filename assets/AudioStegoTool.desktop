@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Audio Hiding Mechanism
+Comment=Hide encrypted messages inside WAV audio files
+Exec=AudioStegoTool
+Icon=application
+Categories=Utility;AudioVideo;Security;
+Terminal=false
