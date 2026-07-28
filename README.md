@@ -26,7 +26,7 @@ sudo dnf install cmake gcc-c++ qt6-qtbase-devel
 *  **BUILD INSTRUCTIONS:**
   ```bash
 # 1. Clone the repository
-git clone [https://github.com/YOUR_USERNAME/AudioStegoTool.git](https://github.com/YOUR_USERNAME/AudioStegoTool.git)
+git clone https://github.com/SofianeBOURICHADZ/Audio-Hider.git
 cd AudioStegoTool
 
 # 2. Configure and build
